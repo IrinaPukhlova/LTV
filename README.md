@@ -3,7 +3,7 @@
 ## Tech Stack
 Python / Pandas / Matplotlib / Seaborn / Jupiter Notebook
 
-The main analysis is done in the Jupiter Notebook file [LTV_analysis.ipynb](https://github.com/IrinaPukhlova/Cohort_analysis/blob/main/cohort_analysis.ipynb)
+The main analysis is done in the Jupiter Notebook file [LTV_analysis.ipynb](https://github.com/IrinaPukhlova/LTV/blob/main/LTV_analysis.ipynb)
 
 ## Goal
 Evaluate the LTV of clients groups who were attracted in different years, and choose a model for attracting and working with clients, which gives both more Profit and LTV (all 4 years used different models to attract and retain clients).
