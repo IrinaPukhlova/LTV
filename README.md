@@ -3,6 +3,8 @@
 ## Tech Stack
 Python / Pandas / Matplotlib / Seaborn / Jupiter Notebook
 
+The main analysis is done in the Jupiter Notebook file [LTV_analysis.ipynb](https://github.com/IrinaPukhlova/Cohort_analysis/blob/main/cohort_analysis.ipynb)
+
 ## Goal
 Evaluate the LTV of clients groups who were attracted in different years, and choose a model for attracting and working with clients, which gives both more Profit and LTV (all 4 years used different models to attract and retain clients).
 
@@ -41,6 +43,6 @@ LTV must be calculated:
 - At the same time, we see a decrease in total Profit with an increase in LTV in each new cohort because the store has greatly reduced the flow of new customers, and this has reduced the total Profit (although it has improved LTV)
 
 
-## Coclusion
+## Conclusion
 
 The store should not only focus on the quality of the flow of new customers (i.e. high LTV), but also the number of new customers -> it is worth trying new channels to attract more customers
